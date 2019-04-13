@@ -3887,7 +3887,7 @@ int main(int argc, char** argv)
 			if ( keystatus[SDL_SCANCODE_F6] )
 			{
 				keystatus[SDL_SCANCODE_F6] = 0;
-				takeScreenshot();
+				//takeScreenshot();
 			}
 
 
