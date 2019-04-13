@@ -1,9 +1,9 @@
 
 #define WINDOWS
 
-#define STEAMWORKS
+#undef STEAMWORKS
 
-#define USE_FMOD
+#undef USE_FMOD
 
 #define EDITOR_EXE_NAME "editor"
 
